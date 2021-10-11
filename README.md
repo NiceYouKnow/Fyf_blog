@@ -11,4 +11,5 @@
 
 ## Ubuntu
 
-* [**<font color=#42b983> 【一】x11VNC**](open_source_application/Ubuntu/x11VNC.md)
+* [**<font color=#42b983> 【一】使用小技巧**](open_source_application/Ubuntu/antic.md)
+* [**<font color=#42b983> 【二】x11VNC**](open_source_application/Ubuntu/x11VNC.md)
