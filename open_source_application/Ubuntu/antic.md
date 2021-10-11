@@ -51,3 +51,7 @@ network:
   version: 2
   renderer: networkd    #指定后端采用systemd-networkd或者Network Manager，可不填写则默认使用systemd-workd
 ```
+
+* 重新应用yaml配置文件
+
+    sudo netplan apply
